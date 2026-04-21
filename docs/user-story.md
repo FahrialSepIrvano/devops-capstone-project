@@ -1,3 +1,4 @@
-As a user
-I need a service
-So that I can manage accounts
+# User Story
+**As a** User
+**I need** to create an account
+**So that** I can access the service
